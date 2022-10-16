@@ -2,13 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
-import MoveOutList from './Components/MoveOutList';
 
 function App() {
   return (
     <div className="App">
-      <MoveOutList />
-      {/* <header className="App-header">
+      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
@@ -52,7 +50,7 @@ function App() {
             React Redux
           </a>
         </span>
-      </header> */}
+      </header>
     </div>
   );
 }
