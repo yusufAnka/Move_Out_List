@@ -38,7 +38,7 @@ const MoveOutList = () => {
                     <td>{MoveList.UID}</td>
                     <td>{MoveList.Balance}</td>
                     <td className="dropdown">
-                      <button className="btn" onClick={}>Flip room</button>
+                      <button className="btn" >Flip room</button>
                     </td>
                     </tr>
                     ))}
