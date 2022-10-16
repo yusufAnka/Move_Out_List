@@ -1,0 +1,46 @@
+[
+  {
+    "move_out_date": "Jan 01, 2021",
+    "id": 42312,
+    "icon": "./hotel2.jpeg",
+    "address": "No. 15 Hausa road",
+    "room": 1,
+    "location": "Atlanta LG",
+    "lastOccupant": "Yusuf nka",
+    "UID": 8987,
+    "Balance": "N2000"
+  },
+  {
+    "move_out_date": "Jan 01, 2021",
+    "id": 42312,
+    "icon": "./hotel2.jpeg",
+    "address": "No. 15 Hausa road",
+    "room": 1,
+    "location": "Atlanta LG",
+    "lastOccupant": "Yusuf nka",
+    "UID": 8987,
+    "Balance": "N2000"
+  },
+  {
+    "move_out_date": "Jan 01, 2021",
+    "id": 42312,
+    "icon": "./hotel.jpeg",
+    "address": "No. 15 Hausa road",
+    "room": 1,
+    "location": "Atlanta LG",
+    "lastOccupant": "Yusuf nka",
+    "UID": 8987,
+    "Balance": "N2000"
+  },
+  {
+    "move_out_date": "Jan 01, 2021",
+    "id": 42312,
+    "icon": "./hotel2.jpeg",
+    "address": "No. 15 Hausa road",
+    "room": 1,
+    "location": "Atlanta LG",
+    "lastOccupant": "Yusuf nka",
+    "UID": 8987,
+    "Balance": "N2000"
+  }
+]

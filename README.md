@@ -1,2 +1,1 @@
-# Move_Out_List
-MAON TECHNOLOGY FRONTEND CODING CHALLENGE
+React Frontend project using Redux to manage the state. When the user clicks the flip room button action should be fired and update the number of rooms and sort/keep the updated move-out on top of the table.
