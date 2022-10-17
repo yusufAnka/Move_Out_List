@@ -8,8 +8,7 @@
         "lastOccupant": "Melissa Banks",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
-        "button":"Flip room"
+        "image": "/images/hotel.jpeg"
     },
     {
         "move_out_date": "Jan 12, 2020",
@@ -20,8 +19,7 @@
         "lastOccupant": "Frankie Vox",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
-        "button":"Flip room"
+        "image": "/images/room.webp"
     },
     {
         "move_out_date": "Jan 18, 2020",
@@ -32,8 +30,7 @@
         "lastOccupant": "Harry Rutherford",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
-        "button":"Flip room"
+        "image": "/images/hotel2.jpeg"
     },
     {
         "move_out_date": "Jan 18, 2020",
@@ -44,8 +41,7 @@
         "lastOccupant": "Clark Brast",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
-        "button":"Flip room"
+        "image": "/images/hotel.jpeg"
     },
     {
         "move_out_date": "Jan 18, 2020",
@@ -56,8 +52,7 @@
         "lastOccupant": "Eric Van",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
-        "button":"Flip room"
+        "image": "/images/room.webp"
     },
     {
         "move_out_date": "Jan 20, 2020",
@@ -68,7 +63,7 @@
         "lastOccupant": "Jerry Tallah",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg"
+        "image": "/images/hotel2.jpeg"
     },
     {
         "move_out_date": "Feb 02, 2020",
@@ -79,7 +74,7 @@
         "lastOccupant": "Olivia Darks",
         "uid":89029,
         "balance": "($405.90)",
-        "image": "/images/home.jpeg",
+        "image": "/images/hotel.jpeg",
         "button":"Flip room"
     }
 

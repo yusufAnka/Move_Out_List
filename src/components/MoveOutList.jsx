@@ -13,10 +13,10 @@ const MoveOutList = () => {
   };
 
   return (
-    <div className="main">
-      <h1 className="main-heading">Move-Out List</h1>
-      <table className="main-table">
-        <thead className="table-head">
+    <div className="container">
+      <h1 className="heading">Move-Out List</h1>
+      <table className="table">
+        <thead className="tableHead">
           <tr>
             <th>Move out data</th>
             <th>Id</th>
@@ -34,9 +34,9 @@ const MoveOutList = () => {
               <td>{data.move_out_date}</td>
               <td>{data.id}</td>
               <td>
-                <div className="imgTag">
+                <div style={{display:"flex"}}>
                   <img className="image" src={data.image} alt="" />
-                  {data.address}
+                  <span style={{marginLeft:"1rem"}}>{data.address}</span>
                 </div>
               </td>
               <td>{data.room}</td>
